@@ -1,4 +1,5 @@
 # Pixel Art (Rust + Yew)
+This repo is one of several in which I'm writing the same app using different languages. See [frontends-comparison](https://github.com/hwallis93/frontends-comparison) for more info.
 
 ## TODO
 
