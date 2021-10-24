@@ -7,6 +7,6 @@ edition="2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [dependencies]
-yew = "0.18"
+yew = { git = "https://github.com/yewstack/yew" }
 yewdux = "0.6"
 yewtil = "0.3"
